@@ -1,6 +1,6 @@
-# Pin Affiliate Poster — legal pages
+# R.T.lapse — legal pages
 
-Public privacy policy and terms of service for the **Pin Affiliate Poster** Pinterest
+Public privacy policy and terms of service for the **R.T.lapse** Pinterest
 app, hosted on GitHub Pages so they can be submitted to the Pinterest developer portal.
 
 | Page | URL |
