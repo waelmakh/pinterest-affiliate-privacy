@@ -5,8 +5,8 @@ app, hosted on GitHub Pages so they can be submitted to the Pinterest developer 
 
 | Page | URL |
 | --- | --- |
-| Privacy Policy | https://waelmakhoul.github.io/pinterest-affiliate-privacy/ |
-| Terms of Service | https://waelmakhoul.github.io/pinterest-affiliate-privacy/terms.html |
+| Privacy Policy | https://waelmakh.github.io/pinterest-affiliate-privacy/ |
+| Terms of Service | https://waelmakh.github.io/pinterest-affiliate-privacy/terms.html |
 
 To update either page, edit the HTML and push to `main` — GitHub Pages redeploys
 automatically within a minute or two. Remember to bump the "Last updated" date.
